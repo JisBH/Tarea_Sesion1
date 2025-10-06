@@ -8,6 +8,7 @@ public class Sesion1 {
 		System.out.println("Un mensaje en la rama1");
 		System.out.println("Otro mensaje en la rama1");
 		System.out.println("Un mensaje en la rama3");
+		System.out.println("Otro mensaje en la rama3");
 	}
 
 }

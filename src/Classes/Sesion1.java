@@ -7,7 +7,7 @@ public class Sesion1 {
 		System.out.println("Primer mensaje");
 		System.out.println("Un mensaje en la rama1");
 		System.out.println("Otro mensaje en la rama1");
-
+		System.out.println("Un mensaje en la rama2");
 	}
 
 }
